@@ -547,7 +547,7 @@ header .intro-text .intro-heading {
 -------------------------------------------------*/
 #status {
     background-color: #28353E;
-    background-image: url("../img/bg-portfolio.jpg");
+    /*background-image: url("../img/bg-portfolio.jpg");*/
     color: #fff;
     padding: 100px 0;
 }

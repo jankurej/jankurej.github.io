@@ -303,8 +303,8 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #13B0A5;
-    background-color: #13B0A5;
+    border-color: #000080;
+    background-color: #000080;
 }
 
 .btn-primary .badge {
@@ -314,13 +314,13 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-x3 {
     padding: 13px 30px;
-    border: 2px solid #13B0A5;
+    border: 2px solid #000080;
     border-radius: 1px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-weight: 400;
-    color: #13B0A5;
+    color:#000080;
     background-color: transparent;
 }
 
@@ -329,7 +329,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-x3:active,
 .btn-x3.active,
 .open .dropdown-toggle.btn-x3 {
-    color: #13B0A5;
+    color: #000080;
     padding: 13px 35px;
 }
 
@@ -350,21 +350,21 @@ fieldset[disabled] .btn-primary.active {
 .btn-x2:active,
 .btn-x2.active,
 .open .dropdown-toggle.btn-x2 {
-    border-color: #13B0A5;
+    border-color: #000080;
     color: #13B0A5;
     background-color: transparent;
 }
 
 .btn-x1 {
     padding: 12px 26px;
-    border-color: #13B0A5;
+    border-color: #000080;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-weight: 400;
     color: #fff;
-    background-color: #13B0A5;
+    background-color: #000080;
 }
 
 .btn-xl:hover,
@@ -398,12 +398,12 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #13B0A5;
-    background-color: #13B0A5;
+    border-color: #000080;
+    background-color: #000080;
 }
 
 .btn-xl .badge {
-    color: #13B0A5;
+    color: #000080;
     background-color: #fff;
 }
 

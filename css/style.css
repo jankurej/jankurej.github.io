@@ -214,12 +214,12 @@ a.active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #13B0A5;
+    background:#000080;
 }
 
 ::selection {
     text-shadow: none;
-    background: #13B0A5;
+    background: #000080;
 }
 
 img::selection {
